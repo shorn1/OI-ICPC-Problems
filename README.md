@@ -1,1 +1,3 @@
-OI-ICPC-Problems
+# OI-ICPC-Problems
+
+各大oj做题的不完全记录，请随意参考。当然，使用需谨慎，无法保证正确性。
